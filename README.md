@@ -1,8 +1,8 @@
 # shell-scripting
 
-Some exercice done to practice Shell Scripting. Those exercices are from the website https://www.learnshell.org/
+Some exercices done to practice Shell Scripting. Those exercices are from the website https://www.learnshell.org/
 
-Below are the description for each exercice. You'll find my solution in this repos.
+Below are the descriptions for each exercice. You'll find my solution in this repos.
 
 ## Loops
 
